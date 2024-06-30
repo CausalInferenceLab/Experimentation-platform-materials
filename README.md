@@ -67,8 +67,8 @@
 | 강남언니 | Blog | [실패를 통해 배우는 AB 테스트](https://blog.gangnamunni.com/post/AB-test-Baisc) |
 | 당근 | Blog | [1주 1개 실험하는 프로덕트 팀이 되는 여정](https://about.daangn.com/blog/archive/당근마켓-실험문화-데이터가치화팀/) |
 | 당근 | Blog | [당근의 실험 문화는 어떻게 자리 잡았을까](https://about.daangn.com/blog/archive/당근-실험-문화-pm-데이터/) |
+| 뱅크샐러드 | Blog | [진정한 실험 조직의 탄생](https://blog.banksalad.com/tech/birth-of-a-genuine-experiment-organization/) |
 | 여기어때 | Blog | [A/B 테스트를 실패해도 괜찮은 이유](https://techblog.gccompany.co.kr/a-b-테스트를-실패해도-괜찮은-이유-c1ace9169823) |
-| 뱅크샐러드 | Blog | [진정한 실험 조직의 탄생](https://blog.banksalad.com/tech/birth-of-a-genuine-experiment-organization/)
 | 우아한형제들 | Blog | [실험 0건인 조직에서, 가장 실험을 활발하게 하는 조직 되기](https://techblog.woowahan.com/13726/) |
 | Airbnb | Blog | [4 Principles for Making Experimentation Count](https://medium.com/airbnb-engineering/4-principles-for-making-experimentation-count-7a5f1a5268a) |
 | Netflix | Blog | [Netflix: A Culture of Learning](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c) |

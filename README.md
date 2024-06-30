@@ -2,17 +2,17 @@
 - [Korea Summer Workshop on Causal Inference 2024](https://sites.google.com/view/causal-inference2024) 패널 토크를 준비하면서, 참고한 실험 플랫폼 자료 정리
 - 패널 토크 주제 : 온라인 실험 및 정량 평가를 통한 비즈니스 성장
 
+<br> 
 
 ## 도서 
-- [Trustworthy Online Controlled Experiments](Trustworthy Online Controlled Experiments)
+- [[Trustworthy Online Controlled Experiments](https://product.kyobobook.co.kr/detail/S000003104944)
 
-## 주요 IT 기업 기술 블로그
-- Microsoft : [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) |
-- Netflix : [Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference) |
-- Linkedin: [A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation) |
-- Uber : [Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820) |
-- Pinterest : [Engineering](https://medium.com/@Pinterest_Engineering) |
-
+## 해외 빅테크 기술 블로그
+- Microsoft : [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
+- Netflix : [Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference)
+- Linkedin: [A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation)
+- Uber : [Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820)
+- Pinterest : [Engineering](https://medium.com/@Pinterest_Engineering)
 
 <br>
 

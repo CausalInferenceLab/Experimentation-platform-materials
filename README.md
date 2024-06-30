@@ -1,20 +1,20 @@
 # 실험 플랫폼 자료
 - 배경 : [Korea Summer Workshop on Causal Inference 2024](https://sites.google.com/view/causal-inference2024) 패널 토크를 준비하면서, 참고한 실험 플랫폼 자료 정리
   - 패널 토크 주제 : 온라인 실험 및 정량 평가를 통한 비즈니스 성장
-- 목적 : 온라인 통제 실험 및 실험 플랫폼을 벤치마킹하고 공부하는 사람들에게 자료를 한 곳에서 볼 수 있도록 포털화
+- 목적 : 타사 온라인 통제 실험 및 실험 플랫폼을 벤치마킹하고 공부하는 사람들에게 자료를 한 곳에서 볼 수 있도록 포털화
 
 
 <br> 
 
 ## 도서 
-- [[Trustworthy Online Controlled Experiments](https://product.kyobobook.co.kr/detail/S000003104944)
+- [Trustworthy Online Controlled Experiments](https://product.kyobobook.co.kr/detail/S000003104944)
 
 ## 해외 빅테크 기술 블로그
-- Microsoft : [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
-- Netflix : [Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference)
-- Linkedin: [A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation)
-- Uber : [Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820)
-- Pinterest : [Engineering](https://medium.com/@Pinterest_Engineering)
+- [Microsoft Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
+- [Netflix Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference)
+- [Linkedin A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation)
+- [Uber Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820)
+- [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
 
 <br>
 
@@ -35,6 +35,7 @@
 | Airbnb | Blog | [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) |
 | Spotify | Blog | [Spotify’s New Experimentation Platform (Part 1)](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/) |
 | Uber | Blog | [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-KR/blog/xp/) |
+| Linkedin | Blog | [Our evolution towards T-REX: The prehistory of experimentation infrastructure at LinkedIn](https://www.linkedin.com/blog/engineering/ab-testing-experimentation/our-evolution-towards-t-rex-the-prehistory-of-experimentation-i) | 
 | Pinterest | Blog | [Building Pinterest’s A/B testing platform](https://medium.com/pinterest-engineering/building-pinterests-a-b-testing-platform-ab4934ace9f4) |
 | Uber | Blog | [Building an Intelligent Experimentation Platform with Uber Engineering](https://www.uber.com/en-KR/blog/experimentation-platform/) |
 | QANDA | Blog |  [QANDA Team의 실험 플랫폼, QXP를 소개합니다.](https://blog.mathpresso.com/qanda-team-의-실험-플랫폼-qxp-를-소개합니다-e8a0abfbbb8e) |

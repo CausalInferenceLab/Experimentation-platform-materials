@@ -9,12 +9,16 @@
 ## 도서 
 - [Trustworthy Online Controlled Experiments](https://product.kyobobook.co.kr/detail/S000003104944)
 
+<br> 
+
 ## 해외 빅테크 기술 블로그
+- [Airbnb Data Science & Data Platform Engineering](https://medium.com/airbnb-engineering/data/home)
+- [Linkedin A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation)
 - [Microsoft Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
 - [Netflix Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference)
-- [Linkedin A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation)
-- [Uber Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820)
 - [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+- [Spotify Experimentation Platform : Confidence](https://confidence.spotify.com/blog) 
+- [Uber Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820)
 
 <br>
 
@@ -68,7 +72,6 @@
 | Airbnb | Blog | [4 Principles for Making Experimentation Count](https://medium.com/airbnb-engineering/4-principles-for-making-experimentation-count-7a5f1a5268a) |
 | Netflix | Blog | [Netflix: A Culture of Learning](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c) |
 | Netflix | Youtube | [Netflix, “A Tale of Complexity: Report from the Causal Inference and Digital Experimentation Roundtable](https://www.youtube.com/watch?v=hKlnvaESwd8) |
-| Spotify | Blog | [How Spotify Analyzes Thousands of A/B Tests With Confidence](https://www.youtube.com/watch?v=qv6Rn8uQCLY) |
 
 <br>
 

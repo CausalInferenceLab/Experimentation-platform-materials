@@ -1,6 +1,11 @@
 # 실험 플랫폼 자료
-- [Korea Summer Workshop on Causal Inference 2024](https://sites.google.com/view/causal-inference2024) 패널 토크를 준비하면서, 정리한 실험 플랫폼 자료 정리
+- [Korea Summer Workshop on Causal Inference 2024](https://sites.google.com/view/causal-inference2024) 패널 토크를 준비하면서, 참고한 실험 플랫폼 자료 정리
 - 패널 토크 주제 : 온라인 실험 및 정량 평가를 통한 비즈니스 성장
+
+<br>
+
+## 도서 
+- [Trustworthy Online Controlled Experiments](Trustworthy Online Controlled Experiments)
 
 
 <br>
@@ -15,7 +20,7 @@
 
 <br>
 
-## 실험 플랫폼 구축
+### 실험 플랫폼 구축
 | Company | Type | Title |
 |---------|---------|-----------------------------------------------------|
 | 카카오페이 | Blog | [카카오페이만의 AB 테스트 서비스를 만든 이유](https://tech.kakaopay.com/post/kakaopay-growth-platform-abtest/) |
@@ -37,7 +42,7 @@
 
 <br>
 
-## 실험 플랫폼 기능
+### 실험 플랫폼 기능
 | Company | Type | Title |
 |---------|---------|-----------------------------------------------------|
 | 쿠팡 | Blog | [쿠팡의 A/B 테스트 지표 연산](https://medium.com/coupang-engineering/calculating-a-b-test-metrics-d3f6dff14c73) |

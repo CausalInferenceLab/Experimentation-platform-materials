@@ -3,16 +3,17 @@
 - 패널 토크 주제 : 온라인 실험 및 정량 평가를 통한 비즈니스 성장
 
 
+<br>
+
 ## 주요 IT 기업 기술 블로그
-| Company | Tech Blog |
-|---------|-----------------------------------------------------|
-| Microsoft | [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) |
-| Netflix | [Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference) |
-| Linkedin | [A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation) |
-| Uber | [Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820) |
-| Pinterest | [Engineering](https://medium.com/@Pinterest_Engineering) |
+- Microsoft : [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) |
+- Netflix : [Experimentation & Causal Inference](https://research.netflix.com/research-area/experimentation-and-causal-inference) |
+- Linkedin: [A/B Testing & Experimentation](https://www.linkedin.com/blog/engineering/ab-testing-experimentation) |
+- Uber : [Data & ML](https://www.uber.com/en-KR/blog/engineering/data/?uclick_id=95eafdb7-907e-4793-9a2d-38f0d6a38820) |
+- Pinterest : [Engineering](https://medium.com/@Pinterest_Engineering) |
 
 
+<br>
 
 ## 실험 플랫폼 구축
 | Company | Type | Title |
@@ -34,7 +35,7 @@
 | Uber | Blog | [Building an Intelligent Experimentation Platform with Uber Engineering](https://www.uber.com/en-KR/blog/experimentation-platform/) |
 | QANDA | Blog |  [QANDA Team의 실험 플랫폼, QXP를 소개합니다.](https://blog.mathpresso.com/qanda-team-의-실험-플랫폼-qxp-를-소개합니다-e8a0abfbbb8e) |
 
-
+<br>
 
 ## 실험 플랫폼 기능
 | Company | Type | Title |
@@ -49,7 +50,7 @@
 | QANDA | Blog | [실험 의사결정 가이드 자동화 : QXP Tracker](https://blog.mathpresso.com/실험-tracking-b3e5ba7b3004) |
 | Uber | Blog | [Supercharging A/B Testing at Uber](https://www.uber.com/en-KR/blog/supercharging-a-b-testing-at-uber/) 
 
-
+<br>
 
 ### 실험 문화
 | Company | Type | Title |
@@ -64,6 +65,7 @@
 | Netflix | Youtube | [Netflix, “A Tale of Complexity: Report from the Causal Inference and Digital Experimentation Roundtable](https://www.youtube.com/watch?v=hKlnvaESwd8) |
 | Spotify | Blog | [How Spotify Analyzes Thousands of A/B Tests With Confidence](https://www.youtube.com/watch?v=qv6Rn8uQCLY) |
 
+<br>
 
 ### 실험 플랫폼 활용
 | Company | Type | Title |

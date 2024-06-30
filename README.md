@@ -2,13 +2,9 @@
 - [Korea Summer Workshop on Causal Inference 2024](https://sites.google.com/view/causal-inference2024) 패널 토크를 준비하면서, 참고한 실험 플랫폼 자료 정리
 - 패널 토크 주제 : 온라인 실험 및 정량 평가를 통한 비즈니스 성장
 
-<br>
 
 ## 도서 
 - [Trustworthy Online Controlled Experiments](Trustworthy Online Controlled Experiments)
-
-
-<br>
 
 ## 주요 IT 기업 기술 블로그
 - Microsoft : [Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) |
